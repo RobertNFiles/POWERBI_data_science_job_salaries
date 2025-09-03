@@ -2,7 +2,8 @@
 
 ## 🎯 Project Goal
 
-The goal of this project was to build an interactive Power BI dashboard based on the **[Data Science Job Salaries dataset (Kaggle)](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)**.  
+The goal of this project was to build an interactive Power BI dashboard based on the [**Data Science Job Salaries**](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) 
+
 The report analyzes the Data Science job market in terms of salaries, locations, and employment types.  
 
 ---
@@ -30,7 +31,7 @@ The report analyzes the Data Science job market in terms of salaries, locations,
 ## 🛠️ Tools Used
 
 - **Power BI** – data modeling, visualization, interactivity  
-- **Kaggle Dataset** – [Data Science Salaries](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)  
+- **Kaggle Dataset** – [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)  
 - **GitHub** – project publishing and documentation  
 
 ---
